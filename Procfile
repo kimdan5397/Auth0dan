@@ -1,0 +1,1 @@
+web: gunicorn auth0dan.config.wsgi --log-file-
